@@ -1,0 +1,70 @@
+// sample convdefs.txt file for OpenArena
+
+texture DEFAULT   azwall3_1
+texture NODRAW    city2_5
+
+texture F_SKY1    lgmetal4
+texture FWATER1   city6_8
+texture FWATER4   city2_5
+texture GRASS1    city2_5
+texture GRASS2    city2_5
+texture GRAY1     city2_5
+texture FLAT18    city2_5
+texture FLAT19    city2_5
+texture FLAT1     city2_5
+texture BRICK7    city2_5
+texture BRICK11   city2_5
+texture STARTAN3  azwall3_1
+texture FLOOR4_8  city2_5
+texture FLOOR7_1  city2_5
+texture CEIL3_5   city2_5
+texture CEMENT1   city2_5
+texture CEMENT9   city2_5
+texture GATE2     city2_5
+texture SUPPORT2  city2_5
+texture FIRELAV2  city2_5
+texture STONE     city2_5
+texture METAL     city2_5
+texture METAL6    city2_5
+texture CEIL5_2   city2_5
+texture STUCCO    city2_5
+texture STUCCO2   city2_5
+texture WOOD12    city2_5
+texture CEIL1_1   city2_5
+texture FLOOR1_6  city2_5
+texture FLOOR1_1  city2_5
+// texture FLOOR7_1  gothic_floor/largeblockfloor4
+// texture METAL     base_wall/shinybluemetal1
+// texture CEIL5_1   base_wall/shinybluemetal1
+// texture CEIL5_2   base_wall/shinybluemetal1
+
+entity  1    info_player_start
+entity  2    info_player_start
+entity  3    info_player_start
+entity  4    info_player_start
+entity  11   info_player_deathmatch
+entity  14   misc_teleporter_dest
+
+// entity  34   light
+
+entity  2001 weapon_shotgun
+entity  2002 weapon_lightning
+entity  2003 weapon_rocketlauncher
+entity    82 weapon_railgun
+entity  2004 weapon_plasmagun
+entity  2005 weapon_grenadelauncher
+
+entity  2014 item_health_small
+entity  2011 item_health
+entity  2012 item_health_large
+entity  2013 item_health_mega
+entity  2015 item_armor_shard
+entity  2018 item_armor_combat
+entity  2019 item_armor_body
+entity  2023 item_quad
+
+entity   5   team_CTF_blueflag
+entity  13   team_CTF_redflag
+entity  44   team_CTF_bluespawn
+entity  46   team_CTF_redspawn
+

@@ -1,0 +1,1 @@
+  "wad" "/home/pi/quakeforge/id1/quake101.wad"
